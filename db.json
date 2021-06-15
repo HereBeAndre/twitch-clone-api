@@ -4,6 +4,12 @@
       "title": "My stream",
       "description": "First stream",
       "id": 9
+    },
+    {
+      "title": "GGWP",
+      "description": "Such a good game!",
+      "userId": "113901850788622018174",
+      "id": 10
     }
   ]
 }
